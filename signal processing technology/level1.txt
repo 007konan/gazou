@@ -1,0 +1,16 @@
+rm: result/*: No such file or directory
+level1_000.ppm:
+
+level1_001.ppm:
+
+level1_002.ppm:
+
+level1_003.ppm:
+
+level1_004.ppm:
+
+level1_005.ppm:
+
+level1_006.ppm:
+
+level1_007.ppm:
